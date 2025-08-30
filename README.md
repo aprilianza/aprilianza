@@ -40,6 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aprilianza&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilianza&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake.svg" />
+</picture>
 
 ---
 
