@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">Hey 👋, I'm Aprilianza Muhammad Yusup</h1>
+<h1 align="center">Hello, I'm Aprilianza Muhammad Yusup</h1>
 <h3 align="center">🚀 AI Enthusiast | 💻 Full-Stack Developer</h3>
 
 <!-- Typing effect -->
