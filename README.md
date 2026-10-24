@@ -1,57 +1,76 @@
-<!-- Banner / Header -->
-<h1 align="center">Hello, I'm Aprilianza Muhammad Yusup</h1>
-<h3 align="center">🚀 AI Enthusiast | 💻 Full-Stack Developer</h3>
+<!-- ===== Header Banner ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:00C2FF&text=Aprilianza%20Muhammad%20Yusup&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="Header" />
+</p>
 
-<!-- Typing effect -->
+<!-- ===== Typing Effect ===== -->
 <p align="center">
   <a href="https://github.com/aprilianza">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+for+real-world+impact;Exploring+Computer+Vision;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+for+real-world+impact;Exploring+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Shipping+full-stack+apps+%F0%9F%9A%80;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
+
+<!-- ===== Quick Badges ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aprilianza-yusup">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aprilianza&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+---
+
+## 👋 About Me
+
+```python
+class Aprilianza:
+    role       = "AI Engineer & Full-Stack Developer"
+    location   = "Indonesia 🇮🇩"
+    focus      = ["Computer Vision", "LLM Apps (RAG, Agents)", "Scalable Backends"]
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,go,js,dart&theme=dark" alt="Languages" />
+</p>
 
-**Frameworks & Tools:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+<p align="center"><b>AI / ML</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi&theme=dark" alt="AI ML" />
+</p>
+
+<p align="center"><b>Web & Mobile</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" alt="Web Mobile" />
+</p>
+
+<p align="center"><b>Database & DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws&theme=dark" alt="Database DevOps" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aprilianza&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilianza&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake.svg" />
-</picture>
 
----
-
-## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aprilianza-yusup">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aprilianza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilianza&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="170" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aprilianza/aprilianza/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ===== Footer Banner ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:00C2FF&section=footer" alt="Footer" />
+</p>
